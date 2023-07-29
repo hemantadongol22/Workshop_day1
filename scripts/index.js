@@ -77,7 +77,7 @@ const filterstd = student.filter((value,index) =>{
 
 console.log(filterstd);
 
-document.title="MERN";
+// document.title="MERN";
 document.getElementById('hello').className = "text-primary";
 
 function loginHandler(event){
