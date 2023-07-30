@@ -3,9 +3,7 @@ console.log("Hello Hemanta");
 // Declaring a variable
 let data1="string1";
 const data2="string2";
-var data3=10;
 
-console.log(data3);
 console.log(typeof(data1));
 
 let isLoggedin = true;
@@ -77,9 +75,6 @@ const filterstd = student.filter((value,index) =>{
 
 console.log(filterstd);
 
-// document.title="MERN";
-document.getElementById('hello').className = "text-primary";
-
 function loginHandler(event){
     event.preventDefault(); //prevent default
     const email = document.getElementById('email').value;
@@ -87,9 +82,3 @@ function loginHandler(event){
     console.log(email);
     console.log(pass);
 }
-
-// JSON
-
-// CRUD 
-// HTTP methods - get post put patch delete client-server
-

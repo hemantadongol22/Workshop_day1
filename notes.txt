@@ -1,0 +1,5 @@
+npm create vite@latest
+mkdir students-frontend
+cd  students-frontend
+npm install  
+npm run dev
