@@ -87,3 +87,9 @@ function loginHandler(event){
     console.log(email);
     console.log(pass);
 }
+
+// JSON
+
+// CRUD 
+// HTTP methods - get post put patch delete client-server
+
